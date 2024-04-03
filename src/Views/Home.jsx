@@ -13,7 +13,7 @@ const Home = () => {
    
     <Container fluid className='p-0 m-0' >
       <Video_Frame />
-      <About_Frame />
+      {/* <About_Frame /> */}
       <Experties_Frame />
       <Card_Frame />
       <Gallary_Frame />
