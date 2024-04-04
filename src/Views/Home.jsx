@@ -12,11 +12,11 @@ const Home = () => {
     <>
    
     <Container fluid className='p-0 m-0' >
-      <Video_Frame />
+{/*       <Video_Frame /> */}
       <About_Frame />
       <Experties_Frame />
       <Card_Frame />
-{/*       <Gallary_Frame /> */}
+      <Gallary_Frame />
       <ContactUs_Frame />
     </Container>
   </>
