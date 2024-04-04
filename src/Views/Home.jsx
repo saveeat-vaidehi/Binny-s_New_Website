@@ -16,7 +16,7 @@ const Home = () => {
       <About_Frame />
       <Experties_Frame />
       <Card_Frame />
-      <Gallary_Frame />
+{/*       <Gallary_Frame /> */}
       <ContactUs_Frame />
     </Container>
   </>
