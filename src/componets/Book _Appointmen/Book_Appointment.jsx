@@ -14,7 +14,7 @@ import { useMediaQuery } from "react-responsive";
 let formControl = {
     height: "55px",
     borderRadius: "10px",
-    backgroundColor: "transparent",
+    // backgroundColor: "transparent",
     border: "1px solid #FFFFFF",
     paddingLeft: "10px",
     color: "#FFFFFF",
